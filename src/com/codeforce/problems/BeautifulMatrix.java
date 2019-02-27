@@ -1,5 +1,9 @@
 package com.codeforce.problems;
 
+/***
+ * Problem URL: http://codeforces.com/contest/709/problem/A
+ */
+
 import java.util.Scanner;
 
 public class BeautifulMatrix {
